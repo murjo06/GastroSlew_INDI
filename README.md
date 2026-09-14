@@ -1,4 +1,4 @@
-# Gastro Slew INDI driver with firmware
+# INDI driver for the GastroSlew mount
 
 ### Installing the INDI driver
 ```sh
